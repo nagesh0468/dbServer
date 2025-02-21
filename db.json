@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "id": "emp001",
+      "name": "Nagesh",
+      "company": "bsit",
+      "designation": "APPICATION DEVELOPER",
+      "gender": "Male",
+      "phone": "9638527410"
+    },
+    {
+      "id": "emp002",
+      "name": "John doe",
+      "company": "bsit",
+      "designation": "fronted developer",
+      "gender": "Male",
+      "phone": "8527419630"
+    },
+    {
+      "id": "emp002",
+      "name": "seetha",
+      "company": "bsit",
+      "designation": "backend developer",
+      "gender": "Female",
+      "phone": "8527419630"
+    },
+    {
+      "id": "emp002",
+      "name": "Sai",
+      "company": "bsit",
+      "designation": "developer",
+      "gender": "Male",
+      "phone": "7418529630"
+    }
+  ],
+  "todo-list": [
+    {
+      "id": "8fbc",
+      "name": "learning react",
+      "plannedDate": "2025-02-28"
+    },
+    {
+      "id": "7b5b",
+      "name": "learning javascript",
+      "plannedDate": "2025-02-23"
+    },
+    {
+      "id": "74a8",
+      "name": "learning angular",
+      "plannedDate": "2025-02-15"
+    },
+    {
+      "id": "",
+      "name": "learning java",
+      "plannedDate": "2025-02-22"
+    }
+  ]
+}
